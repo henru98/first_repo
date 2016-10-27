@@ -1,0 +1,5 @@
+- **Addition**  Adds 2 numbers
+- **Subtraction**  Subtract 2 numbers
+- **Multiplication**  Multiply 2 numbers
+- **Division**  Divide 2 numbers
+- **Fibonacci**  Appy Fibonacci sequence count times
